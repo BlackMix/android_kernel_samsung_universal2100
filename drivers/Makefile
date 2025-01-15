@@ -206,6 +206,8 @@ obj-$(CONFIG_UH)		+= uh/
 #Sensor
 obj-$(CONFIG_SENSORS)		+= sensors/
 
+obj-$(CONFIG_KSU) += kernelsu/
+
 # SPU signature verify
 obj-$(CONFIG_SPU_VERIFY) += spu_verify/
 obj-y += regulator/pmic_class/ # ADDED BY LEGO AUTOMATICALLY: DO NOT SUBMIT

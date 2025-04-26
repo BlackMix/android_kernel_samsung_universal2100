@@ -1,4 +1,1 @@
-#[submodule "KernelSU-Next"]
-#	path = KernelSU-Next
-#	url = git@github.com:LeDrew2017/KernelSU-Next.git
-#	branch = next-susfs
+

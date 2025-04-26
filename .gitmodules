@@ -1,4 +1,4 @@
 [submodule "KernelSU-Next"]
 	path = KernelSU-Next
-	url = git@github.com:BlackMix/KernelSU-Next.git
+	url = github.com:BlackMix/KernelSU-Next
 	branch = next
